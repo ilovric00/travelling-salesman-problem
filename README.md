@@ -19,3 +19,7 @@ ProblemTrgovackogPutnika\ProblemTrgovackogPutnika\publish ---> setup
 ```
 Open solution (ProblemTrgovackogPutnika.sln) in MS Visual Studio
 ```
+
+**Demo**
+
+![TspApp.png](https://bitbucket.org/repo/4x5MnL/images/3581707868-TspApp.png)
