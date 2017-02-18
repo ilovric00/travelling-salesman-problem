@@ -1,0 +1,17 @@
+C:\Users\Ivan\Desktop\ProblemTrgovackogPutnika\ProblemTrgovackogPutnika\bin\Debug\ProblemTrgovackogPutnika.exe.config
+C:\Users\Ivan\Desktop\ProblemTrgovackogPutnika\ProblemTrgovackogPutnika\bin\Debug\ProblemTrgovackogPutnika.exe
+C:\Users\Ivan\Desktop\ProblemTrgovackogPutnika\ProblemTrgovackogPutnika\bin\Debug\ProblemTrgovackogPutnika.pdb
+C:\Users\Ivan\Desktop\ProblemTrgovackogPutnika\ProblemTrgovackogPutnika\obj\Debug\ProblemTrgovackogPutnika.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\ProblemTrgovackogPutnika\ProblemTrgovackogPutnika\obj\Debug\ProblemTrgovackogPutnika.Properties.Resources.resources
+C:\Users\Ivan\Desktop\ProblemTrgovackogPutnika\ProblemTrgovackogPutnika\obj\Debug\ProblemTrgovackogPutnika.csproj.GenerateResource.Cache
+C:\Users\Ivan\Desktop\ProblemTrgovackogPutnika\ProblemTrgovackogPutnika\obj\Debug\ProblemTrgovackogPutnika.exe
+C:\Users\Ivan\Desktop\ProblemTrgovackogPutnika\ProblemTrgovackogPutnika\obj\Debug\ProblemTrgovackogPutnika.pdb
+C:\Users\Ivan\Desktop\ProblemTrgovackogPutnika\ProblemTrgovackogPutnika\obj\Debug\ProblemTrgovackogPutnika.TspMain.resources
+C:\Users\Ivan\Desktop\ProblemTrgovackogPutnika\ProblemTrgovackogPutnika\obj\Debug\ProblemTrgovackogPutnika.TspWelcome.resources
+C:\Users\Ivan\Desktop\ProblemTrgovackogPutnika\ProblemTrgovackogPutnika\bin\Debug\ProblemTrgovackogPutnika.exe.manifest
+C:\Users\Ivan\Desktop\ProblemTrgovackogPutnika\ProblemTrgovackogPutnika\bin\Debug\ProblemTrgovackogPutnika.application
+C:\Users\Ivan\Desktop\ProblemTrgovackogPutnika\ProblemTrgovackogPutnika\obj\Debug\ProblemTrgovackogPutnika.exe.manifest
+C:\Users\Ivan\Desktop\ProblemTrgovackogPutnika\ProblemTrgovackogPutnika\obj\Debug\ProblemTrgovackogPutnika.application
+C:\Users\Ivan\Desktop\FESB\METODE OPTIMIZACIJE\SEMINAR\ProblemTrgovackogPutnika\ProblemTrgovackogPutnika\bin\Debug\ProblemTrgovackogPutnika.exe.config
+C:\Users\Ivan\Desktop\FESB\METODE OPTIMIZACIJE\SEMINAR\ProblemTrgovackogPutnika\ProblemTrgovackogPutnika\obj\Debug\ProblemTrgovackogPutnika.exe
+C:\Users\Ivan\Desktop\FESB\METODE OPTIMIZACIJE\SEMINAR\ProblemTrgovackogPutnika\ProblemTrgovackogPutnika\obj\Debug\ProblemTrgovackogPutnika.pdb

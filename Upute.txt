@@ -1,0 +1,10 @@
+Putanja do izbildanog programa:
+ProblemTrgovackogPutnika\ProblemTrgovackogPutnika\bin\Debug ---> Jadranka.exe
+
+
+Instalacija programa:
+ProblemTrgovackogPutnika\ProblemTrgovackogPutnika\publish ---> setup
+
+
+Izmjena/pregled koda:
+Otovoriti solution (ProblemTrgovackogPutnika.sln) u MS Visual Studio
