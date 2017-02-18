@@ -8,7 +8,7 @@ ProblemTrgovackogPutnika\ProblemTrgovackogPutnika\bin\Debug ---> Jadranka.exe
 
 
 **
-Instalacija programa:**
+Program installation:**
 ```
 ProblemTrgovackogPutnika\ProblemTrgovackogPutnika\publish ---> setup
 ```
